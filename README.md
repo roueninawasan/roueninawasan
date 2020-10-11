@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋:smile:
 
-<!--
-**roueninawasan/roueninawasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bachelor of Science in Information Systems student
+at
+West Visayas State University
 
-Here are some ideas to get you started:
+### :seedling: I'm currently learning:...
+- Flutter
+- Sparx
+- Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :clipboard: Things I love to do:...
+- Cooking :fork_and_knife:
+- Watching Anime :computer:
+- Listening to Music :headphones:
+- Planting Ornamental Plants :seedling:
+- Reading Novels :book:
+- Playing video games :video_game:
+
+### 🤔 I’m looking for help with:...
+- Some ideas to earn some money:moneybag: online (P.S. something that is not illegal)
+
+### :postbox: How to reach me:...
+- Facebook (https://www.facebook.com/roueninawasan)
+- Twitter:hatched_chick: (https://www.twitter.com/ruru)
+- Email :e-mail: (rouen.inawasan@wvsu.edu.ph)
+
+### ⚡ Fun fact:...
+- :banana: Bananas are not trees, they are giant hearbs. :grin:
+
